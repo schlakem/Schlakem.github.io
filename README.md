@@ -1,8 +1,7 @@
-## Welcome to the 8th Annual Schlak'em Tournement
+# Schlak'em Tournement
 
-### Make your picks
+#### Make your picks
 
 [Week 1](http://www.google.com)
 
-
-Thanks
+[Week 2 Thursday](http://www.facebook.com)
