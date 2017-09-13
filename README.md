@@ -3,7 +3,7 @@
 [Week 1](http://www.google.com)
 
 ## Results
-(images/Schlak1_overall.png)
+! https://github.com/schlakem/Schlakem.github.io/blob/master/images/Schlak1_overall.png "Week 1 Results"
 
 ## Week 1 Picks
-(images/Schlak1.png)
+! https://github.com/schlakem/Schlakem.github.io/blob/master/images/schlak1.png "Week 1 Picks"
