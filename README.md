@@ -4,7 +4,7 @@
 [Week 2 Sunday/Monday](http://www.yahoo.com)
 
 ## Results
-![](images/Schlak1_overall.png) "Week 1 Results"
+![](images/Schlak1_overall.png)
 
 ## Week 1 Picks
-![](images/schlak1.png) "Week 1 Picks"
+![](images/schlak1.png)
