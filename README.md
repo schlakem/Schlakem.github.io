@@ -1,6 +1,7 @@
 ## Submit your Picks
 
 [Week 2 Thursday night](http://www.google.com)
+
 [Week 2 Sunday/Monday](http://www.yahoo.com)
 
 ## Results
