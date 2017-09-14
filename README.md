@@ -1,8 +1,8 @@
 ## Submit your Picks
 
-[Week 2 Thursday night](http://www.google.com)
+[Week 2 Thursday night](https://schlachter.typeform.com/to/qrABeT)
 
-[Week 2 Sunday/Monday](http://www.yahoo.com)
+[Week 2 Sunday/MNF](https://schlachter.typeform.com/to/UpJEXl)
 
 ## Results
 ![](images/Schlak1_overall.png)
