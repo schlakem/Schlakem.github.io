@@ -2,8 +2,6 @@
 
 [Week 3 Thursday night](https://schlachter.typeform.com/to/n63s8U)
 
-[Week 3 Sunday/MNF]
-
 ## Week 2 Results
 ![](images/week.png)
 
