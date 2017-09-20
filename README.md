@@ -1,11 +1,14 @@
 ## Submit your Picks
 
-[Week 2 Thursday night](https://schlachter.typeform.com/to/qrABeT)
+[Week 3 Thursday night](https://schlachter.typeform.com/to/n63s8U)
 
-[Week 2 Sunday/MNF](https://schlachter.typeform.com/to/UpJEXl)
+[Week 3 Sunday/MNF]
 
-## Results
-![](images/Schlak1_overall.png)
+## Week 2 Results
+![](images/week.png)
 
-## Week 1 Picks
-![](images/schlak1.png)
+## Overall Results
+![](images/overall.png)
+
+## Week 2 Picks
+![](images/picks.png)
