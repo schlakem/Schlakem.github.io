@@ -1,14 +1,14 @@
 ## Submit your Picks
 
-[Week 4 Thursday night](https://schlachter.typeform.com/to/r3E83a)
+[Thursday night](https://schlachter.typeform.com/to/r3E83a)
 
-[Week 4 Sunday/MNF](https://schlachter.typeform.com/to/eNoJ97)
+[Sunday/MNF](https://schlachter.typeform.com/to/eNoJ97)
 
-## Week 3 Results
+## Week 4 Results
 ![](images/week.png)
 
 ## Overall Results
 ![](images/overall.png)
 
-## Week 3 Picks
+## Week 4 Picks
 ![](images/picks.png)
