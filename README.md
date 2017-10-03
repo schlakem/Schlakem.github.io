@@ -7,8 +7,8 @@
 ## 
 ![](images/week.png)
 
-## Overall Results
+## 
 ![](images/overall.png)
 
-## Week 4 Picks
+## 
 ![](images/picks.png)
