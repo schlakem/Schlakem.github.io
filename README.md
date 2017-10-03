@@ -4,7 +4,7 @@
 
 [Sunday/MNF](https://schlachter.typeform.com/to/eNoJ97)
 
-## Week 4 Results
+## 
 ![](images/week.png)
 
 ## Overall Results
