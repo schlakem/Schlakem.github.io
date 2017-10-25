@@ -1,8 +1,8 @@
 ## Submit your Picks
 
-[Thursday night](https://schlachter.typeform.com/to/pcpT3j)
+[Thursday night](https://schlachter.typeform.com/to/lVTdsV)
 
-[Sunday/MNF](https://schlachter.typeform.com/to/hnYneQ)
+[Sunday/MNF](https://schlachter.typeform.com/to/vAWjFb)
 
 
 ![](images/week.png)
