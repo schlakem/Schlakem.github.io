@@ -1,6 +1,6 @@
 ## Submit your Picks
 
-[Sunday/MNF](https://schlachter.typeform.com/to/a4oZXy)
+[Week 16](https://schlachter.typeform.com/to/a4oZXy)
 
 
 ![](images/week.png)
