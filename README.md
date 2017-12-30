@@ -1,6 +1,6 @@
 ## Submit your Picks
 
-###[Final Week](https://schlachter.typeform.com/to/hUwfPc)
+### [Final Week](https://schlachter.typeform.com/to/hUwfPc)
 
 
 ![](images/week.png)
